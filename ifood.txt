@@ -1,0 +1,10 @@
+1 - Encontrar meu celular
+2 - Desbloquear o celular
+3 - Abrir o aplicativo
+4 - Escolher o que vou pedir senão encontrar escolho outra coisa
+5 - Adicionar ao carrinho
+6 - Escolher a forma de pagamento
+7 - Finaliza o pedido
+8 - Aguarda retorno da loja, se a loja não confirma retorna ao 4 passo
+9 - Aguarda o entregador
+10 - Receber o pedido e realizar o pagamento
